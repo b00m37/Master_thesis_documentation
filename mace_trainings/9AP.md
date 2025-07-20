@@ -43,4 +43,7 @@ I tried adding in the bulk and slab configurations, but it made the error worse.
 
 ## s_r_gas*
 
-These are runs were I added the gas configurations.
+These are some attempts to include gas phase configurations to the training. However, the training didn't finish correctly.
+
+## more_training_with_gas
+
